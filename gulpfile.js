@@ -15,3 +15,7 @@ gulp.task('html', function(){
 	    .pipe(fileinclude('@@'))
 	    .pipe(gulp.dest('dist'));
 });
+
+gulp.task('watch', ['default'], function(){
+	gulp.watch('resume.md', ['default']);
+});
