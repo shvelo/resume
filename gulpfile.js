@@ -2,7 +2,7 @@ var gulp = require('gulp');
 var markdown = require('gulp-markdown');
 var fileinclude = require('gulp-file-include');
 
-gulp.task('default', ['md', 'html']);
+gulp.task('default', ['html']);
 
 gulp.task('md', function() {
 	return gulp.src('resume.md')
@@ -10,7 +10,7 @@ gulp.task('md', function() {
         .pipe(gulp.dest('dist'));
 });
 
-gulp.task('html', function(){
+gulp.task('html', ['md'], function(){
 	return gulp.src('index.html')
 	    .pipe(fileinclude('@@'))
 	    .pipe(gulp.dest('dist'));
