@@ -9,6 +9,9 @@
 - [Twitter](https://twitter.com/shvelo96)
 - [CoderBits](https://coderbits.com/shvelo)
 
+## Apps and Websites made
+- [Tbilisi Bus](https://play.google.com/store/apps/details?id=com.tbilisi.bus) - Android app
+
 ## Skills:
 - Android development
 - Full-stack web development
@@ -30,3 +33,9 @@ Omedia - 2013
 - B.Sc. in Computer and Electrical Engineering  
 Agricultural University of Georgia  
 2014-present
+
+## Interests
+- Game Development
+- Music - Playing guitar
+- Electronics - Arduino and Audio hardware
+- Retro Gaming
