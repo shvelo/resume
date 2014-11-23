@@ -4,6 +4,7 @@
   "dependencies": {
     "gulp": "^3.8.10",
     "gulp-file-include": "^0.5.1",
-    "gulp-markdown": "^1.0.0"
+    "gulp-markdown": "^1.0.0",
+    "gulp-sass": "^1.1.0"
   }
 }
