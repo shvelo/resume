@@ -1,0 +1,9 @@
+{
+  "name": "resume",
+  "version": "0.0.0",
+  "dependencies": {
+    "gulp": "^3.8.10",
+    "gulp-file-include": "^0.5.1",
+    "gulp-markdown": "^1.0.0"
+  }
+}
