@@ -5,6 +5,7 @@
 
 ## Links
 - [GitHub profile](https://github.com/shvelo)
+- [AngelList profile](https://angel.co/nick-shvelidze)
 - [Google+](https://plus.google.com/+NickShvelidze)
 - [Twitter](https://twitter.com/shvelo96)
 - [CoderBits](https://coderbits.com/shvelo)
