@@ -12,6 +12,7 @@
 
 ## Apps and Websites made
 - [Tbilisi Bus](https://play.google.com/store/apps/details?id=com.tbilisi.bus) - Android app
+- [Friendzone](https://play.google.com/store/apps/details?id=com.friendzone.client) - Android app
 
 ## Skills:
 - Android development
