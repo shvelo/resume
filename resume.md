@@ -1,3 +1,8 @@
+---
+name: Nick Shvelidze
+lang: en
+---
+
 ![](img/mugshot.jpg)
 
 # Nick Shvelidze

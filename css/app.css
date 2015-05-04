@@ -28,7 +28,7 @@ video {
   border: 1px solid #ddd; }
 
 nav {
-  font-size: 0.9em;
+  font-size: .9em;
   font-style: italic;
   border-bottom: 1px solid #ddd;
   padding: 1em 0; }
@@ -72,7 +72,7 @@ blockquote {
 
 code {
   font-family: "Consolas", "Menlo", "Monaco", monospace, serif;
-  font-size: 0.9em;
+  font-size: .9em;
   background: white; }
 
 a {

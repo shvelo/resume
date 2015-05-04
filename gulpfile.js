@@ -2,21 +2,27 @@ var gulp = require('gulp'),
 	markdown = require('gulp-markdown'),
 	sass = require('gulp-sass'),
 	rename = require('gulp-rename'),
-	fileinclude = require('gulp-file-include');
+	wrap = require('gulp-wrap')
+    exec = require('gulp-exec')
+    frontMatter = require('gulp-front-matter');
 
-gulp.task('default', ['html']);
+gulp.task('default', ['html', 'index', 'pdf']);
 
-gulp.task('md', function() {
-	return gulp.src('resume.md')
+gulp.task('html', ['css'], function(){
+	return gulp.src('resume*.md')
+        .pipe(frontMatter({ // optional configuration 
+            property: 'matter',
+            remove: true
+        }))
         .pipe(markdown())
-        .pipe(gulp.dest('.'));
+	    .pipe(wrap({ src: 'template.html' }))
+	    .pipe(gulp.dest('.'));
 });
 
-gulp.task('html', ['md', 'css'], function(){
-	return gulp.src('template.html')
-	    .pipe(fileinclude('@@'))
-	    .pipe(rename('index.html'))
-	    .pipe(gulp.dest('.'));
+gulp.task('index', ['html'], function(){
+    return gulp.src('resume.html')
+        .pipe(rename('index.html'))
+        .pipe(gulp.dest('.'));
 });
 
 gulp.task('css', function(){
@@ -26,6 +32,12 @@ gulp.task('css', function(){
 });
 
 gulp.task('watch', ['default'], function(){
-	gulp.watch('resume.md', ['default']);
+	gulp.watch('resume*.md', ['default']);
 	gulp.watch('sass/*', ['css']);
+});
+
+gulp.task('pdf', ['html'], function(){
+    return gulp.src("resume*.html")
+        .pipe(exec("wkhtmltopdf <%= file.path %> <%= file.path.replace('.html','') %>.pdf"))
+        .pipe(exec.reporter());
 });

@@ -1,13 +1,13 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="<%= file.matter.lang || 'en' %>">
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
-	<title>Nick Shvelidze</title>
+	<title><%= file.matter.name %></title>
 	<link rel="icon" href="img/favicon.png">
 	<link rel="stylesheet" href="css/app.css">
 </head>
 <body>
-	@@include('./resume.html')
+	<%= contents %>
 </body>
 </html>
