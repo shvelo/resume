@@ -10,7 +10,7 @@ gulp.task('default', ['html', 'index', 'pdf']);
 
 gulp.task('html', ['css'], function(){
 	return gulp.src('resume*.md')
-        .pipe(frontMatter({ // optional configuration 
+        .pipe(frontMatter({
             property: 'matter',
             remove: true
         }))
