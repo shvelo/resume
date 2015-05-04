@@ -3,14 +3,7 @@ html, body {
   padding: 1em;
   margin: auto;
   max-width: 42em;
-  margin-left: 7em;
   background: #fefefe; }
-  @media (max-width: 50em) {
-    html, body {
-      margin-left: auto; }
-      html img, body img {
-        position: static;
-        margin: 0; } }
 
 body {
   font: 1.3em "Vollkorn", Palatino, Times;
@@ -43,9 +36,7 @@ nav {
     margin: 0; }
 
 img {
-  width: 10em;
-  margin-left: -12em;
-  position: absolute; }
+  width: 100%; }
 
 /* Typography */
 h1, h2, h3, h4, h5, h6 {

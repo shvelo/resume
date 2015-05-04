@@ -4,17 +4,7 @@ html, body {
     padding: 1em;
     margin: auto;
     max-width: 42em;
-    margin-left: 7em;
     background: #fefefe;
-
-    @media (max-width: 50em) {
-    	margin-left: auto;
-
-    	img {
-    		position: static;
-    		margin: 0;
-    	}
-    }
 }
 
 body {
@@ -56,9 +46,7 @@ nav {
 }
 
 img {
-	width: 10em;
-	margin-left: -12em;
-	position: absolute;
+	width: 100%;
 }
 
 /* Typography */
