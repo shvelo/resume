@@ -1,48 +1,34 @@
 ---
-name: Nick Shvelidze
+name: Lalo Tabagari
 lang: en
 ---
 
 ![](img/mugshot.jpg)
 
-# Nick Shvelidze
-### Mobile / Web developer
+# Lalo Tabagari
+### Business Administrator
+### Born 1992
 
-## Links
-- [GitHub profile](https://github.com/shvelo)
-- [AngelList profile](https://angel.co/nick-shvelidze)
-- [Google+](https://plus.google.com/+NickShvelidze)
-- [Twitter](https://twitter.com/shvelo96)
-- [CoderBits](https://coderbits.com/shvelo)
+## Contact info
+- Email [lalo@pirrate.me](mailto:lalo@pirrate.me)
+- Phone: (+995) 598 788 809
+- Address: Nutsubidze Plateau IV MD. Bldg. 4, Apt. 19
 
-## Apps and Websites made
-- [Tbilisi Bus](https://play.google.com/store/apps/details?id=com.tbilisi.bus) - Android app
-- [Friendzone](https://play.google.com/store/apps/details?id=com.friendzone.client) - Android app
-
-## Skills:
-- Android development
-- Full-stack web development
-- Java, Node.js, Ruby
-- Angular.js, jQuery
-- SASS, CSS
-- Source control - Git
-- Advanced Linux
+## Software
+- Microsoft Office  
+Word, Excel, PowerPoint
 
 ## Employment
-- Front-End Web Developer  
-Steady Logic - 2014
-- Web / Android Developer  
-LemonDo - 2013-2014
-- Web Developer  
-Omedia - 2013
+- Children's Entertainment Center "Stitch"  
+Administrator  
+Oct. 2012 - present
 
 ## Education
-- B.Sc. in Computer and Electrical Engineering  
-Agricultural University of Georgia  
-2014-present
+- Ilia State University School of Business  
+Business Administration and Management  
+2010 - 2014
 
-## Interests
-- Game Development
-- Music - Playing guitar
-- Electronics - Arduino and Audio hardware
-- Retro Gaming
+## Languages
+- Georgian - Native
+- English - Good
+- Russian - Fair
