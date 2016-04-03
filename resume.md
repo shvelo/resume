@@ -3,32 +3,38 @@ name: Nick Shvelidze
 lang: en
 ---
 
-![](img/mugshot.jpg)
+![Picture](img/mugshot.jpg)
 
 # Nick Shvelidze
-### Mobile / Web developer
+### Mobile / Full-Stack Web developer
 
 ## Links
-- [GitHub profile](https://github.com/shvelo)
-- [AngelList profile](https://angel.co/nick-shvelidze)
-- [Google+](https://plus.google.com/+NickShvelidze)
-- [Twitter](https://twitter.com/shvelo96)
-- [CoderBits](https://coderbits.com/shvelo)
+- [GitHub: shvelo](https://github.com/shvelo)
+- [AngelList: nick-shvelidze](https://angel.co/nick-shvelidze)
+- [LinkedIn: shvelo](https://www.linkedin.com/in/shvelo)
+- [Google+: +NickShvelidze](https://plus.google.com/+NickShvelidze)
+- [Twitter: @libgrog](https://twitter.com/libgrog)
+- [CoderBits: shvelo](https://coderbits.com/shvelo)
 
-## Apps and Websites made
-- [Tbilisi Bus](https://play.google.com/store/apps/details?id=com.tbilisi.bus) - Android app
-- [Friendzone](https://play.google.com/store/apps/details?id=com.friendzone.client) - Android app
+## Apps and Websites worked on
+- [Tbilisi Bus](https://play.google.com/store/apps/details?id=com.tbilisi.bus) - Android app, Solo developer
+- [Sadili.ge](https://sadili.ge) - Website, Development lead
+- [Various experiments on GitHub](http://pirrate.me/)
 
 ## Skills:
-- Android development
-- Full-stack web development
-- Java, Node.js, Ruby
-- Angular.js, jQuery
-- SASS, CSS
-- Source control - Git
-- Advanced Linux
+- **Android development:**  
+Java, Kotlin, Realm, OKHttp, Retrofit, AppCompat
+- **Full-stack web development:**  
+Node.js, Ruby (Rails, Sinatra),  
+Angular.js, jQuery, Sails.js, Express, Socket.IO, MongoDB  
+SASS, CSS, LESS, PostCSS  
+Gulp, Babel, PostHTML
+- **Source control:** Git (advanced)
+- **Advanced Linux**
 
 ## Employment
+- Lead Developer - Full-stack, Mobile  
+[Sadili.ge](https://sadili.ge) - 2015-present
 - Front-End Web Developer  
 Steady Logic - 2014
 - Web / Android Developer  
@@ -44,5 +50,6 @@ Agricultural University of Georgia
 ## Interests
 - Game Development
 - Music - Playing guitar
-- Electronics - Arduino and Audio hardware
-- Retro Gaming
+- Electronics - Arduino and, IoT, Audio hardware
+- Retro Gaming, Emulation
+- Procedural Generation
