@@ -28,10 +28,15 @@ Node.js, Ruby (Rails, Sinatra),
 Angular.js, jQuery, Sails.js, Express, Socket.IO, MongoDB  
 SASS, CSS, LESS, PostCSS  
 Gulp, Babel, PostHTML
+- **Ecommerce:**  
+Payments, Delivery management, Live delivery tracking, Inventory management
 - **Maps/GIS:**  
-NgMap (Google Maps, OSM), Google Maps (JS, Android), Leaflet, OSM, MapBox (Android), OSM Rendering, GraphHopper, MongoDB Geospatial
+NgMap (Google Maps, OSM), Google Maps (JS, Android), Leaflet, OSM, MapBox (Android), OSM Rendering, GraphHopper, MongoDB Geospatial  
+- **Game Development:**  
+LibGDX, HaxeFlixel, Phaser, MelonJS, Tiled
 - **Source control:** Git (advanced)
-- **Advanced Linux**
+- **Advanced Linux:**  
+Git-based deployment, SSH, Nginx, OpenWRT, Systemd, Arch Linux (AUR Publishing)
 
 ## Employment
 - Lead Developer - Full-stack, Mobile  
@@ -49,8 +54,10 @@ Agricultural University of Georgia
 2014-present
 
 ## Interests
-- Game Development
-- Music - Playing guitar
-- Electronics - Arduino and, IoT, Audio hardware
-- Retro Gaming, Emulation
-- Procedural Generation
+- Game Development  
+- Pixel Art, 8-bit sound  
+- Science (Biology, Physics, Astronomy)  
+- Music - Playing guitar, Sound recording and effects  
+- Electronics - Arduino, Freescale Kinetis and ESP8266, IoT, Analog audio hardware  
+- Retro Gaming, Emulation, Gaming on Microcontrollers  
+- Procedural Generation  
