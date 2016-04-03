@@ -21,12 +21,15 @@ lang: en
 
 ## Skills:
 - **Android development:**  
-Java, Kotlin, Realm, OKHttp, Retrofit, AppCompat
+Java, [Kotlin](https://kotlinlang.org/), [Realm](https://realm.io/), [OKHttp](http://square.github.io/okhttp/),
+[Retrofit](http://square.github.io/retrofit/), AppCompat, Google Play Services
 - **Full-stack web development:**  
 Node.js, Ruby (Rails, Sinatra),  
 Angular.js, jQuery, Sails.js, Express, Socket.IO, MongoDB  
 SASS, CSS, LESS, PostCSS  
 Gulp, Babel, PostHTML
+- **Maps/GIS:**  
+NgMap (Google Maps, OSM), Google Maps (JS, Android), Leaflet, OSM, MapBox (Android), OSM Rendering, GraphHopper, MongoDB Geospatial
 - **Source control:** Git (advanced)
 - **Advanced Linux**
 
