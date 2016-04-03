@@ -3,8 +3,6 @@ name: Nick Shvelidze
 lang: en
 ---
 
-![Picture](img/mugshot.jpg)
-
 # Nick Shvelidze
 ### Mobile / Full-Stack Web developer
 
