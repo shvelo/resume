@@ -6,6 +6,8 @@ lang: en
 # Nick Shvelidze
 ### Mobile / Full-Stack Web developer
 
+---
+
 ## Contact info  
 Email: <script src="js/insm.js"></script>
 
@@ -16,6 +18,8 @@ Email: <script src="js/insm.js"></script>
 - [Google+: +NickShvelidze](https://plus.google.com/+NickShvelidze)
 - [Twitter: @libgrog](https://twitter.com/libgrog)
 - [CoderBits: shvelo](https://coderbits.com/shvelo)
+
+---
 
 ## Apps and Websites worked on
 - [Tbilisi Bus](https://play.google.com/store/apps/details?id=com.tbilisi.bus) - Android app, Solo developer
@@ -41,6 +45,8 @@ LibGDX, HaxeFlixel, Phaser, MelonJS, Tiled
 - **Advanced Linux:**  
 Git-based deployment, SSH, Nginx, OpenWRT, Systemd, Arch Linux (AUR Publishing)
 
+---
+
 ## Employment
 - Lead Developer - Full-stack, Mobile  
 [Sadili.ge](https://sadili.ge) - 2015-present
@@ -56,6 +62,8 @@ Omedia - 2013
 Agricultural University of Georgia  
 2014-present
 
+---
+
 ## Interests
 - Game Development  
 - Pixel Art, 8-bit sound  
@@ -64,5 +72,7 @@ Agricultural University of Georgia
 - Electronics - Arduino, Freescale Kinetis and ESP8266, IoT, Analog audio hardware  
 - Retro Gaming, Emulation, Gaming on Microcontrollers  
 - Procedural Generation  
+
+---
 
 [Source on GitHub](https://github.com/shvelo/resume)
