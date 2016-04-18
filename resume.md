@@ -6,6 +6,9 @@ lang: en
 # Nick Shvelidze
 ### Mobile / Full-Stack Web developer
 
+## Contact info  
+Email: <script src="js/insm.js"></script>
+
 ## Links
 - [GitHub: shvelo](https://github.com/shvelo)
 - [AngelList: nick-shvelidze](https://angel.co/nick-shvelidze)
@@ -61,3 +64,5 @@ Agricultural University of Georgia
 - Electronics - Arduino, Freescale Kinetis and ESP8266, IoT, Analog audio hardware  
 - Retro Gaming, Emulation, Gaming on Microcontrollers  
 - Procedural Generation  
+
+[Source on GitHub](https://github.com/shvelo/resume)
