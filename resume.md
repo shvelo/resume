@@ -9,7 +9,7 @@ lang: en
 ---
 
 ## Contact info  
-Email: <script src="js/insm.js"></script>
+Email: [captain@pirrate.me](mailto:captain@pirrate.me)
 
 ## Links
 - [GitHub: shvelo](https://github.com/shvelo)
@@ -29,7 +29,7 @@ Email: <script src="js/insm.js"></script>
 ## Skills:
 - **Android development:**  
 Java, [Kotlin](https://kotlinlang.org/), [Realm](https://realm.io/), [OKHttp](http://square.github.io/okhttp/),
-[Retrofit](http://square.github.io/retrofit/), AppCompat, Google Play Services
+[Retrofit](http://square.github.io/retrofit/), [Conductor](https://github.com/bluelinelabs/Conductor), AppCompat, Google Play Services
 - **Full-stack web development:**  
 Node.js, Ruby (Rails, Sinatra),  
 Angular.js, jQuery, Sails.js, Express, Socket.IO, MongoDB  
@@ -58,9 +58,12 @@ LemonDo - 2013-2014
 Omedia - 2013
 
 ## Education
-- B.Sc. in Computer and Electrical Engineering  
+- Informatics  
+Georgian Technical University  
+2016-present  
+- Computer and Electrical Engineering  
 Agricultural University of Georgia  
-2014-present
+2014-2016
 
 ---
 
