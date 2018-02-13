@@ -9,13 +9,14 @@ var gulp = require('gulp'),
 gulp.task('default', ['html', 'index', 'pdf']);
 
 gulp.task('html', ['css'], function(){
-	return gulp.src('resume*.md')
+	return gulp.src('resume.md')
         .pipe(frontMatter({
             property: 'matter',
             remove: true
         }))
         .pipe(markdown())
-	    .pipe(wrap({ src: 'template.html' }))
+        .pipe(wrap({ src: 'template.html' }))
+        .pipe(rename({ extname: '.html' }))
 	    .pipe(gulp.dest('.'));
 });
 

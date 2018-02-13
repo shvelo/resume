@@ -4,7 +4,13 @@ lang: en
 ---
 
 # Nick Shvelidze
-### Mobile / Full-Stack Web developer
+### Full-Stack Web, Front-End, Back-End, Android Developer
+
+---
+
+I'm a full-stack developer interested in a wide range of platforms, including Android, Web, Linux and embedded development.
+
+I always strive for great code quality and readability. I like writing code that performs great and is not overly complex or undocumented.
 
 ---
 
@@ -15,9 +21,8 @@ Email: [captain@pirrate.me](mailto:captain@pirrate.me)
 - [GitHub: shvelo](https://github.com/shvelo)
 - [AngelList: nick-shvelidze](https://angel.co/nick-shvelidze)
 - [LinkedIn: shvelo](https://www.linkedin.com/in/shvelo)
-- [Google+: +NickShvelidze](https://plus.google.com/+NickShvelidze)
 - [Twitter: @libgrog](https://twitter.com/libgrog)
-- [CoderBits: shvelo](https://coderbits.com/shvelo)
+- [Stack Overflow: nick-shvelidze](https://stackoverflow.com/users/995041/nick-shvelidze)
 
 ---
 
@@ -31,29 +36,31 @@ Email: [captain@pirrate.me](mailto:captain@pirrate.me)
 Java, [Kotlin](https://kotlinlang.org/), [Realm](https://realm.io/), [OKHttp](http://square.github.io/okhttp/),
 [Retrofit](http://square.github.io/retrofit/), [Conductor](https://github.com/bluelinelabs/Conductor), AppCompat, Google Play Services
 - **Full-stack web development:**  
-Node.js, Ruby (Rails, Sinatra),  
+Node.js, Ruby (Rails, Sinatra), Java EE  
 Angular.js, jQuery, Sails.js, Express, Socket.IO, MongoDB  
-SASS, CSS, LESS, PostCSS  
-Gulp, Babel, PostHTML
+SASS, CSS, LESS  
+Gulp, Babel, Webpack  
 - **Ecommerce:**  
 Payments, Delivery management, Live delivery tracking, Inventory management
 - **Maps/GIS:**  
 NgMap (Google Maps, OSM), Google Maps (JS, Android), Leaflet, OSM, MapBox (Android), OSM Rendering, GraphHopper, MongoDB Geospatial  
 - **Game Development:**  
 LibGDX, HaxeFlixel, Phaser, MelonJS, Tiled
-- **Source control:** Git (advanced)
-- **Advanced Linux:**  
+- **Source control:** Git, GitLab, GitHub, BitBucket, CI  
+- **Linux:**  
 Git-based deployment, SSH, Nginx, OpenWRT, Systemd, Arch Linux (AUR Publishing)
 
 ---
 
 ## Employment
+- Software Developer - Java EE, Full-Stack  
+[AzRy](https://azry.com) - 2017-present
 - Lead Developer - Full-stack, Mobile  
-[Sadili.ge](https://sadili.ge) - 2015-present
-- Front-End Web Developer  
+[Sadili.ge](https://sadili.ge) - 2015-2017
+- Front-End Web Developer - Angular  
 Steady Logic - 2014
 - Web / Android Developer  
-LemonDo - 2013-2014
+[LemonDo](http://www.lemondo.com/) - 2013-2014
 - Web Developer  
 Omedia - 2013
 
