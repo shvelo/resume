@@ -37,24 +37,30 @@ Java, [Kotlin](https://kotlinlang.org/), [Realm](https://realm.io/), [OKHttp](ht
 [Retrofit](http://square.github.io/retrofit/), [Conductor](https://github.com/bluelinelabs/Conductor), AppCompat, Google Play Services
 - **Full-stack web development:**  
 Node.js, Ruby (Rails, Sinatra), Java EE  
-Angular.js, jQuery, Sails.js, Express, Socket.IO, MongoDB  
+Vue.js, Angular.js, jQuery, Sails.js, Express, Socket.IO  
+MongoDB, PostgreSQL, MariaDB  
 SASS, CSS, LESS  
-Gulp, Babel, Webpack  
+Gulp, Babel, Webpack, Parcel  
+- **Multimedia:**  
+HTTP Live Streaming, FFMPEG
 - **Ecommerce:**  
 Payments, Delivery management, Live delivery tracking, Inventory management
 - **Maps/GIS:**  
 NgMap (Google Maps, OSM), Google Maps (JS, Android), Leaflet, OSM, MapBox (Android), OSM Rendering, GraphHopper, MongoDB Geospatial  
 - **Game Development:**  
 LibGDX, HaxeFlixel, Phaser, MelonJS, Tiled
-- **Source control:** Git, GitLab, GitHub, BitBucket, CI  
+- **Source control:**  
+Git, GitLab, GitHub, BitBucket, CI  
 - **Linux:**  
-Git-based deployment, SSH, Nginx, OpenWRT, Systemd, Arch Linux (AUR Publishing)
+Git-based deployment, SSH, Nginx, OpenWRT, Systemd, Arch Linux (AUR)
 
 ---
 
 ## Employment
+- Software Developer - Full-Stack, Mobile  
+[Qarva](https://qarva.com) - 2018-present
 - Software Developer - Java EE, Full-Stack  
-[AzRy](https://azry.com) - 2017-present
+[AzRy](https://azry.com) - 2017-2018
 - Lead Developer - Full-stack, Mobile  
 [Sadili.ge](https://sadili.ge) - 2015-2017
 - Front-End Web Developer - Angular  
