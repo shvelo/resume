@@ -1,13 +1,19 @@
 @import url('https://fonts.googleapis.com/css?family=Open+Sans:400,400italic,700,700italic&subset=latin');
 
+$color1: #2A628F;
+$color2: #2f4858;
+$color3: #f6ae2d;
+$color4: #6f8ab7;
+$color5: #2c5784;
+
 html, body {
-    padding: 1em;
-    margin: auto;
-    max-width: 42em;
     background: #fefefe;
 }
 
 body {
+    padding: 1em;
+    margin: auto;
+    max-width: 29cm;
 	font: 1.3em "Open Sans", sans-serif;
 	color: #333;
 	line-height: 1.4;
@@ -56,11 +62,13 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 h1 {
+	color: $color2;
 	margin-top: 0;
 	font-weight: normal;
 }
 
 h2 {
+	color: $color5;
 	font-weight: normal;
 	margin-top: .5em;
 	margin-bottom: .2em;
@@ -68,7 +76,11 @@ h2 {
 
 h3 {
 	font-weight: normal;
-	font-style: italic;
+}
+
+h4 {
+	margin-top: .5em;
+	font-weight: normal;
 }
 
 p {
@@ -101,8 +113,8 @@ code {
 	background: white;
 }
 
-a {
-	color: #2484c1;
+a, a:visited {
+	color: $color1;
 	text-decoration: none;
 }
 
@@ -115,15 +127,15 @@ a img {
 }
 
 h1 a, h1 a:hover {
-	color: #333;
+	color: $color1;
 	text-decoration: none;
 }
 
 hr {
-	color : #ddd;
+	color : $color4;
 	height : 1px;
 	margin: 1em 0;
-	border-top : solid 1px #ddd;
+	border-top : solid 1px $color4;
 	border-bottom : none;
 	border-left: 0;
 	border-right: 0;
@@ -138,6 +150,19 @@ p#heart{
 
 .red {
 	color:#B50000;
+}
+
+.print-only {
+	display: none;
+}
+
+@media only print {
+	.print-only {
+		display: inherit;
+	}
+	.no-print {
+		display: none;
+	}
 }
 
 /* Tablet*/
