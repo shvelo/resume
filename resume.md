@@ -83,7 +83,7 @@ MongoDB, PostgreSQL, MariaDB, Sequelize,
 Express, Socket.io, ElasticSearch
 
 - **Front-end web technologies:**  
-Vue.js, Angular.js, jQuery, Sails.js, Nest.js  
+Vue.js, Nuxt.js, Angular.js, jQuery, Sails.js, Nest.js  
 SASS, CSS, LESS  
 Gulp, Babel, Webpack, Parcel
 
@@ -103,7 +103,7 @@ Payments and billing, Delivery management and tracking, Inventory management.
 Integration with payment processors such as **Stripe**, TBC Ecommerce (ECOMM2), BoG iPay
 
 - **Maps/GIS:**  
-Google Maps (Web, Android), OpenStreetMap, NgMap (Google Maps, OSM), Leaflet, MapBox (Android),  
+Google Maps (Web, Android), OpenStreetMap, NgMap (Google Maps, OSM), Leaflet, MapBox (Android),     
 Rendering OpenStreetMap tiles, Self-hosted navigation using GraphHopper, Working with geospatial data in MongoDB.
 
 - **Source control:**  
@@ -121,7 +121,7 @@ For personal projects, I use **Linode**.
 Godot Engine, LibGDX, HaxeFlixel, Phaser, MelonJS, Tiled
 
 - **Learning in progress:**  
-I'm actively learning the **Rust** programming language
+I'm actively learning the **Rust** programming language and **React**
 
 ---
 

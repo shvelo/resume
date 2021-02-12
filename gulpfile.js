@@ -32,7 +32,7 @@ gulp.task('index', function () {
 
 gulp.task('pdf', function () {
     return gulp.src("resume*.html")
-        .pipe(exec("wkhtmltopdf <%= file.path %> <%= file.path.replace('.html','') %>.pdf"))
+        .pipe(exec("wkhtmltopdf --enable-local-file-access <%= file.path %> <%= file.path.replace('.html','') %>.pdf"))
         .pipe(exec.reporter());
 });
 
