@@ -11,6 +11,8 @@ lang: en
 I'm a full-stack developer specializing in modern, best practices **JavaScript**
 and related technologies (**Node.js**, **TypeScript**, **React**, **Vue**, **CSS3**, **HTML5**).
 
+I'm always thinking about User Experience and Accessibility.
+
 I always strive for great code quality and readability. Making sure to document everything and write unit tests.
 
 Alongside my jobs, I've worked on various interesting freelance projects.
@@ -35,7 +37,7 @@ See my profiles on <a href="https://github.com/shvelo" target="_blank" rel="noop
 
 ---
 
-## Apps and Websites I've worked on
+## Apps and Websites I've worked on independently
 
 #### **[Food4.ge](https://food4.ge) - a popular recipe and food blogging website in Georgia, launched in 2019.** 
 Created for a client. Coded from scratch, entirely by me. Includes ecommerce features.  
@@ -45,50 +47,65 @@ Powered by Node.js (Express) and Vue + Nuxt for hybrid Server Side Rendering, wh
 Public transport app for Tbilisi, Georgia, with over 10 000 users.  
 First created as part of a hackathon, redesigned several times, grew in popularity over time to reach widespread use throughout the city.
 
-#### **Sadili.ge - an on-demand food delivery service (ceased operating in 2017).**
-I was responsible for coding a large portion of this service, including the payment and delivery flow.
-Website powered by Sails.js and Angular.js. Featuring live updates and delivery tracking using websocket technology.  
-I've also created the Android app used by delivery drivers for this service.
-
 ---
 
 ## Employment experience
 
-#### **Software Engineer - Full-Stack** at **[Algea Care](https://algeacare.com)**  
+#### **Senior Software Engineer - Full-Stack** at **[Algea Care](https://algeacare.com)**  
 *Oct 2021 - Feb 2022*  
-Working to deliver the best patient experience.  
+Working with an international team to deliver the best patient experience.  
 
-#### **Software Engineer - Full-Stack, Node.js Backend** at **[TulaCo](https://tula.co)**  
+*Used technologies: Next.js, Nest.js, MongoDB, Mongoose, Redis, TypeORM, React, Grommet, Tailwind CSS, Docker, AWS, GitHub Actions.*  
+
+#### **Senior Software Engineer - Full-Stack, Node.js Backend** at **[TulaCo](https://tula.co)**  
 *Jul 2019 - Dec 2021*  
+Working for multiple clients at TulaCo:  
 Back-End Developer for gopractis.com  
 Back-End Developer for tryframe.com  
 Front-End Developer for convoz.com  
 Back-End Developer for studykik.com  
 
+*Used technologies: JavaScript, Node.js, Bootstrap, HTML, CSS, Twilio, React, Nest.js, Redis, MongoDB, Postgres, TypeORM, AWS.*
+
+
 #### **Software Engineer - Full-Stack, Mobile** at **[Qarva](https://qarva.com)**  
 *Apr 2018 - Jul 2019*  
-Implementing the new generation of live streaming technologies for IPTV.
+Implementing the new generation of live streaming technologies for IPTV.  
+
+*Used technologies: HLS (hls.js), MPEG-DASH (Shaka player), FFMPEG, Media Source Extensions, Smart TV APIs.*
 
 #### **Software Engineer - Java EE, Full-Stack** at **[AzRy](https://azry.com)**
 *Oct 2017 - Mar 2018*  
-Creating and maintaining Java EE-based solutions for public transportation and payments.
+Creating and maintaining Java EE-based solutions for public transportation and payments.  
+
+*Used technologies: Java EE, GWT, Sencha GXT, PHP.*
 
 #### **Lead Developer - Full-stack, Mobile** at **Sadili.ge**  
-*Jul 2015 - Nov 2017*
+*Jul 2015 - Nov 2017*  
+Sadili.ge was an innovative on-demand food delivery service that ceased operating in 2017.  
+I was responsible for coding a large portion of this service, including the payment and delivery flow.
+Website powered by Sails.js and Angular.js. Featuring live updates and delivery tracking using websocket technology.  
+I've also created the Android app used by delivery drivers for this service.  
+
+*Used technologies: JavaScript, Node.js, Sails.js, Socket.IO, Bootstrap, HTML, CSS, Java (Android), Kotlin.*
 
 #### **Web / Android Developer** at **[LemonDo Business](http://www.lemondo.com/)**  
 *Mar 2013 - Jun 2014*  
-I was responsible for creating and maintaining various apps for in-house and B2B use.  
+Creating and maintaining various apps for in-house and B2B use.  
+
+*Used technologies: jQuery, HTML, CSS, JavaScript, Java (Android).*
 
 #### **Junior Web Developer** at **[Omedia](http://omedia.ge/)**  
 *Sep 2013 - Nov 2013*  
-My work here consisted of creating custom solutions on Drupal.
+Creating custom solutions with Drupal.  
+
+*Used technologies: PHP, Drupal, HTML, CSS, JavaScript.*
 
 ---
 
 ## My Skills:
 - **Back-end web technologies:**  
-Node.js, TypeScript, Ruby on Rails, Java EE,  
+Node.js, TypeScript, Next.js, Ruby on Rails, Java EE,  
 MongoDB, PostgreSQL, MariaDB, Sequelize,  
 Express, Socket.io, ElasticSearch
 
@@ -139,9 +156,6 @@ I'm actively learning the **Rust** programming language and **React Native**
 
 #### Studying **Computer Science** at **Georgian Technical University**
 *2016 - present*
-
-#### Studied **Computer and Electrical Engineering** at **Agricultural University of Georgia**
-*2014 - 2016*
 
 ---
 
