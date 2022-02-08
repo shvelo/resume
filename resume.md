@@ -9,9 +9,11 @@ lang: en
 ---
 
 I'm a full-stack developer specializing in modern, best practices **JavaScript**
-and related technologies (**Node.js**, **TypeScript**, **Vue**, **CSS3**, **HTML5**).
+and related technologies (**Node.js**, **TypeScript**, **React**, **Vue**, **CSS3**, **HTML5**).
 
-I have experience creating robust and elegant applications and websites, both while working in teams and solo.
+I always strive for great code quality and readability. Making sure to document everything and write unit tests.
+
+Alongside my jobs, I've worked on various interesting freelance projects.
 
 ---
 
@@ -52,16 +54,24 @@ I've also created the Android app used by delivery drivers for this service.
 
 ## Employment experience
 
+#### **Software Engineer - Full-Stack** at **[Algea Care](https://algeacare.com)**  
+*Oct 2021 - Feb 2022*  
+Working to deliver the best patient experience.  
+
 #### **Software Engineer - Full-Stack, Node.js Backend** at **[TulaCo](https://tula.co)**  
-*Jul 2019 - present*  
+*Jul 2019 - Dec 2021*  
+Back-End Developer for gopractis.com  
+Back-End Developer for tryframe.com  
+Front-End Developer for convoz.com  
+Back-End Developer for studykik.com  
 
 #### **Software Engineer - Full-Stack, Mobile** at **[Qarva](https://qarva.com)**  
 *Apr 2018 - Jul 2019*  
-I was working on implementing the new generation of live streaming technologies for IPTV.
+Implementing the new generation of live streaming technologies for IPTV.
 
 #### **Software Engineer - Java EE, Full-Stack** at **[AzRy](https://azry.com)**
 *Oct 2017 - Mar 2018*  
-
+Creating and maintaining Java EE-based solutions for public transportation and payments.
 
 #### **Lead Developer - Full-stack, Mobile** at **Sadili.ge**  
 *Jul 2015 - Nov 2017*
@@ -83,7 +93,7 @@ MongoDB, PostgreSQL, MariaDB, Sequelize,
 Express, Socket.io, ElasticSearch
 
 - **Front-end web technologies:**  
-Vue.js, Nuxt.js, Angular.js, jQuery, Sails.js, Nest.js  
+React, Vue.js, Nuxt.js, Angular.js, jQuery, Sails.js, Nest.js  
 SASS, CSS, LESS  
 Gulp, Babel, Webpack, Parcel
 
@@ -121,7 +131,7 @@ For personal projects, I use **Linode**.
 Godot Engine, LibGDX, HaxeFlixel, Phaser, MelonJS, Tiled
 
 - **Learning in progress:**  
-I'm actively learning the **Rust** programming language and **React**
+I'm actively learning the **Rust** programming language and **React Native**
 
 ---
 
