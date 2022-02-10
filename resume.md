@@ -20,7 +20,7 @@ Alongside my jobs, I've worked on various interesting freelance projects.
 ---
 
 ## Contact information  
-My email address is **[captain@pirrate.me](mailto:captain@pirrate.me)**
+**[captain@pirrate.me](mailto:captain@pirrate.me)**
 
 <div class="no-print">
 See my profiles on <a href="https://github.com/shvelo" target="_blank" rel="noopener">GitHub</a>,

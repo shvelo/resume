@@ -32,7 +32,7 @@ gulp.task('index', () =>
 
 gulp.task('pdf', () =>
     gulp.src("resume*.html")
-        .pipe(exec((file) => `wkhtmltopdf --no-outline --print-media-type --enable-local-file-access "${file.path}" "${file.path.replace('.html', '.pdf')}"`))
+        .pipe(exec((file) => `wkhtmltopdf --no-outline --enable-local-file-access "${file.path}" "${file.path.replace('.html', '.pdf')}"`))
         .pipe(exec.reporter())
 );
 
