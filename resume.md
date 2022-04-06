@@ -4,23 +4,13 @@ lang: en
 ---
 
 # Nikoloz Shvelidze
-### Full-Stack Software Engineer located in Tbilisi, Georgia
-
----
-
-I'm a full-stack developer specializing in modern, best practices **JavaScript**
-and related technologies (**Node.js**, **TypeScript**, **React**, **Vue**, **CSS3**, **HTML5**).
-
-I'm always thinking about User Experience and Accessibility.
-
-I always strive for great code quality and readability. Making sure to document everything and write unit tests.
-
-Alongside my jobs, I've worked on various interesting freelance projects.
+### Full-Stack Software Engineer located in Tbilisi, Georgia  
+### Looking for jobs in EU
 
 ---
 
 ## Contact information  
-**[captain@pirrate.me](mailto:captain@pirrate.me)**
+**[shveloo@gmail.com](mailto:shveloo@gmail.com)**
 
 <div class="no-print">
 See my profiles on <a href="https://github.com/shvelo" target="_blank" rel="noopener">GitHub</a>,
@@ -35,30 +25,50 @@ See my profiles on <a href="https://github.com/shvelo" target="_blank" rel="noop
 <strong>Stack Overflow</strong>: https://stackoverflow.com/users/995041/nick-shvelidze
 </div>
 
+
+---
+
+I'm a full-stack developer specializing in modern, best practices **JavaScript**
+and related technologies (**Node.js**, **TypeScript**, **React**, **Vue**, **CSS3**, **HTML5**).
+
+I'm always thinking about User Experience and Accessibility.
+
+I always strive for great code quality and readability. Making sure to document everything and write unit tests.
+
+Alongside my jobs, I've worked on various interesting freelance projects.
+
 ---
 
 ## Apps and Websites I've worked on independently
 
 #### **[Food4.ge](https://food4.ge) - a popular recipe and food blogging website in Georgia, launched in 2019.** 
-Created for a client. Coded from scratch, entirely by me. Includes ecommerce features.  
+Created for a client. Coded from scratch, entirely by myself. Includes ecommerce features.  
 Powered by Node.js (Express) and Vue + Nuxt for hybrid Server Side Rendering, which improves search engine optimization and load times.
 
 #### **Tbilisi Bus - an Android app (ceased operating in 2019).**  
 Public transport app for Tbilisi, Georgia, with over 10 000 users.  
-First created as part of a hackathon, redesigned several times, grew in popularity over time to reach widespread use throughout the city.
+First created as part of a hackathon, redesigned several times, grew in popularity over time to reach widespread use throughout the city.  
+Source code: <a href="https://github.com/shvelo/tbilisi-bus" target="_blank" rel="noopener">GitHub.com/shvelo/tbilisi-bus</a>
 
 ---
 
 ## Employment experience
 
+#### **Backend Developer** at **[Mimi Hearing Technologies](https://mimi.io)**  
+*Mar 2022 - present*, Full Time, Remote  
+Working on the Mimi platform backend to ensure smooth operation and enhance hearing experience.  
+
+*Used technologies: Node.js, Nest.js, MongoDB, TypeORM, Docker, CircleCI.*  
+
+
 #### **Senior Software Engineer - Full-Stack** at **[Algea Care](https://algeacare.com)**  
-*Oct 2021 - Feb 2022*  
+*Oct 2021 - Feb 2022*, Full Time, Remote  
 Working with an international team to deliver the best patient experience.  
 
 *Used technologies: Next.js, Nest.js, MongoDB, Mongoose, Redis, TypeORM, React, Grommet, Tailwind CSS, Docker, AWS, GitHub Actions.*  
 
 #### **Senior Software Engineer - Full-Stack, Node.js Backend** at **[TulaCo](https://tula.co)**  
-*Jul 2019 - Dec 2021*  
+*Jul 2019 - Dec 2021*, Full Time, Remote-Hybrid  
 Working for multiple clients at TulaCo:  
 Back-End Developer for gopractis.com  
 Back-End Developer for tryframe.com  
@@ -69,19 +79,19 @@ Back-End Developer for studykik.com
 
 
 #### **Software Engineer - Full-Stack, Mobile** at **[Qarva](https://qarva.com)**  
-*Apr 2018 - Jul 2019*  
+*Apr 2018 - Jul 2019*, Full Time  
 Implementing the new generation of live streaming technologies for IPTV.  
 
 *Used technologies: HLS (hls.js), MPEG-DASH (Shaka player), FFMPEG, Media Source Extensions, Smart TV APIs.*
 
 #### **Software Engineer - Java EE, Full-Stack** at **[AzRy](https://azry.com)**
-*Oct 2017 - Mar 2018*  
+*Oct 2017 - Mar 2018*, Full Time  
 Creating and maintaining Java EE-based solutions for public transportation and payments.  
 
 *Used technologies: Java EE, GWT, Sencha GXT, PHP.*
 
 #### **Lead Developer - Full-stack, Mobile** at **Sadili.ge**  
-*Jul 2015 - Nov 2017*  
+*Jul 2015 - Nov 2017*, Full Time  
 Sadili.ge was an innovative on-demand food delivery service that ceased operating in 2017.  
 I was responsible for coding a large portion of this service, including the payment and delivery flow.
 Website powered by Sails.js and Angular.js. Featuring live updates and delivery tracking using websocket technology.  
@@ -90,13 +100,13 @@ I've also created the Android app used by delivery drivers for this service.
 *Used technologies: JavaScript, Node.js, Sails.js, Socket.IO, Bootstrap, HTML, CSS, Java (Android), Kotlin.*
 
 #### **Web / Android Developer** at **[LemonDo Business](http://www.lemondo.com/)**  
-*Mar 2013 - Jun 2014*  
+*Mar 2013 - Jun 2014*, Freelance Contractor  
 Creating and maintaining various apps for in-house and B2B use.  
 
 *Used technologies: jQuery, HTML, CSS, JavaScript, Java (Android).*
 
 #### **Junior Web Developer** at **[Omedia](http://omedia.ge/)**  
-*Sep 2013 - Nov 2013*  
+*Sep 2013 - Nov 2013*, Half Time  
 Creating custom solutions with Drupal.  
 
 *Used technologies: PHP, Drupal, HTML, CSS, JavaScript.*
