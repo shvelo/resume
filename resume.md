@@ -4,7 +4,7 @@ lang: en
 ---
 
 # Nikoloz Shvelidze
-### Full-Stack Software Engineer located in Tbilisi, Georgia  
+### Full-Stack Software Engineer located in Berlin, Germany  
 ### Looking for jobs in EU
 
 ---
@@ -55,7 +55,7 @@ Source code: <a href="https://github.com/shvelo/tbilisi-bus" target="_blank" rel
 ## Employment experience
 
 #### **Backend Developer** at **[Mimi Hearing Technologies](https://mimi.io)**  
-*Mar 2022 - present*, Full Time, Remote  
+*Mar 2022 - present*, Full Time, Remote-Hybrid  
 Working on the Mimi platform backend to ensure smooth operation and enhance hearing experience.  
 
 *Used technologies: Node.js, Nest.js, MongoDB, TypeORM, Docker, CircleCI.*  
@@ -122,7 +122,7 @@ Express, Socket.io, ElasticSearch
 - **Front-end web technologies:**  
 React, Vue.js, Nuxt.js, Angular.js, jQuery, Sails.js, Nest.js  
 SASS, CSS, LESS  
-Gulp, Babel, Webpack, Parcel
+Gulp, Babel, Webpack
 
 - **Android development:**  
 Java, Kotlin,
@@ -166,30 +166,3 @@ I'm actively learning the **Rust** programming language and **React Native**
 
 #### Studying **Computer Science** at **Georgian Technical University**
 *2016 - present*
-
----
-
-## My Interests
-
-#### **Photography**
-
-I collect vintage film and digital cameras, photography is my #1 hobby.  
-You can see my work on [Unsplash](https://unsplash.com/@shvelo) and [Flickr](https://www.flickr.com/photos/pirrate).<br/>
-Most of my photos are available under a [Creative Commons](https://creativecommons.org/) license. 
-
-#### **Game Development**
-
-I develop games as a hobby. I think it provides a good challenge for my programming and logic skills.<br/>
-My current engine of choice is [Godot](https://godotengine.org/).
-
-#### **Electronics**
-
-I experiment with the Arduino ecosystem and Internet of Things.
-
-#### **Vintage computers**
-
-I collect various vintage computers, such as IBM ThinkPads.  
-
----
-
-[Source on GitHub](https://github.com/shvelo/resume)
